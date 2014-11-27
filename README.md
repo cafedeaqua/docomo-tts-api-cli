@@ -5,7 +5,7 @@ docomo-tts-api-cli is command line tool to call docomo web api TextToSpeech(NTT 
 ## Installation
 
 ```
-$ npm install -g docomo-tts-api-cli
+$ npm install docomo-tts-api-cli
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ docomo-tts-api-cli -a AAAAAAAAAAAAAAAAAAAAAAAAA -s tts.aac -t 日本語の読�
 ## Help
 
 ```
-Usage: docomo-tts-api-cli.js [options]
+Usage: docomo-tts-api-cli [options]
 
 	--help, -h
 		Displays help information about this script
