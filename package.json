@@ -12,8 +12,10 @@
   },
   "keywords": [
     "docomo",
-    "tts"
+    "tts",
+    "cli"
   ],
+
   "author": "",
   "license": "MIT",
   "bugs": {
@@ -21,6 +23,7 @@
   },
   "homepage": "https://github.com/cafedeaqua/docomo-tts-api-cli",
   "dependencies": {
-    "argv": "0.0.2"
+    "argv": "0.0.2",
+    "docomo-tts-api" : "0.1.0"
   }
 }
