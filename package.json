@@ -25,5 +25,8 @@
   "dependencies": {
     "argv": "0.0.2",
     "docomo-tts-api" : "0.1.2"
+  },
+  "bin": {
+    "docomo-tts-api-cli": "bin/docomo-tts-api-cli.js"
   }
 }
