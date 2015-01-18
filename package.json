@@ -2,7 +2,7 @@
   "name": "docomo-tts-api-cli",
   "version": "0.1.1",
   "description": "You can invoke docomo webapi for TextToSpeech( NTT IT version) and save speech file.",
-  "main": "bin/docomo-tts-api-cli",
+  "main": "bin/docomo-tts-api-cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
