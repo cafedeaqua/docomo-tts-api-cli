@@ -24,6 +24,6 @@
   "homepage": "https://github.com/cafedeaqua/docomo-tts-api-cli",
   "dependencies": {
     "argv": "0.0.2",
-    "docomo-tts-api" : "0.1.0"
+    "docomo-tts-api" : "0.1.2"
   }
 }
